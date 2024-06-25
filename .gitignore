@@ -1,0 +1,53 @@
+# Binaries for programs and plugins
+*.exe
+*.dll
+*.so
+*.dylib
+*.test
+
+# Output of the go coverage tool
+*.out
+
+# Go workspace file
+go.work
+
+# Go build directory
+/build/
+
+# Vendor directory
+vendor/
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDEs and editors
+### VS Code ###
+.vscode/
+.history/
+*.code-workspace
+*.visualstudio/
+
+### JetBrains ###
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+### Sublime ###
+*.sublime-project
+*.sublime-workspace
+
+### Others ###
+*.swp
+*~
+
+# Gopaths
+Godeps/
+vendor/
+_vendor/
+Godeps/_workspace/
