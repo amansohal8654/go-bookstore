@@ -17,7 +17,7 @@ This repository contains multiple Go projects used for practice. Each project is
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
-- You have installed [Go](https://golang.org/doc/install) (version X.X.X or higher).
+- You have installed [Go](https://golang.org/doc/install) (version 1.19 or higher).
 - You have a [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) client installed on your machine.
 
 ## Installation
