@@ -51,3 +51,6 @@ Godeps/
 vendor/
 _vendor/
 Godeps/_workspace/
+
+# Environment variables
+.env
