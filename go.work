@@ -1,0 +1,9 @@
+go 1.19
+
+use (
+	./Rest-Mongo
+	./go-auth
+	./go-bookstore
+	./go-movies-crud
+	./go-server
+)
